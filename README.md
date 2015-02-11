@@ -12,4 +12,4 @@ So with your help we hopefully establish a solution as the standard for enterpri
 
 Curious? Have a look at [our current development repository](https://github.com/appserver-io/appserver)!
 
-# ===== This repository is deprecated =====
+# ======== This repository is deprecated ========
