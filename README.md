@@ -11,3 +11,5 @@ aren't serious? Maybe! But we think, in order to enable as many developers in ou
 So with your help we hopefully establish a solution as the standard for enterprise applications in PHP environments.
 
 Curious? Have a look at [our current development repository](https://github.com/appserver-io/appserver)!
+
+# This repository is deprecated
